@@ -1,0 +1,11 @@
+p.flashy {
+  width: 50%;
+  font-style: italic;
+  color: red;
+}
+
+p.best {
+  width: 50%;
+  font-style: oblique;
+  color: purple;
+}
